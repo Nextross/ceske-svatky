@@ -1,6 +1,8 @@
 # ceske-svatky
 Tento jednoduchý program zobrazí po spuštění počítače oznámení o tom, kdo má dneska svátek. Funguje pouze online, protože k fungování využívá Svátky API (https://svatky.adresa.info/).
 
+![svatky](https://user-images.githubusercontent.com/70912486/162619952-6f80d1ba-14b6-48b5-99fa-a7c0689205fd.gif)
+
 ## Instalace
 
 Pro jednoduchou instalaci:
