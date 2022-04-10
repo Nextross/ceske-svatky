@@ -21,3 +21,7 @@ Pokud máte všechny tyto věci správně nainstalované, můžeme přejít na v
 5. Do Additional Files (Add Files) přidejte `icon.ico`
 6. V Advanced najděte `--hidden-import` - přidejte knihovnu `notify-py`
 7. Klikněte na CONVERT .PY TO .EXE
+
+## Lincence
+
+Tento program se řídí podle GNU General Public License v3.0 licence.
